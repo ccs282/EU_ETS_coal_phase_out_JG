@@ -1,0 +1,6 @@
+
+*.dta
+*.pdf
+*.RData
+Rprof.out
+.Rhistory
